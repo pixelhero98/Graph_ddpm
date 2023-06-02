@@ -12,6 +12,7 @@ from graph_gen_dataset import *
 import matplotlib.pyplot as plt
 import numpy as np
 import matplotlib.animation as animation
+import Mydataset
 
 
 def get_adj_matrix(data):
